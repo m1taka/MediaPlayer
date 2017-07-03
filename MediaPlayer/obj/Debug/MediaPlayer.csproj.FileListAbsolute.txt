@@ -12,3 +12,17 @@ c:\users\лукарски\documents\visual studio 2012\Projects\MediaPlayer\Medi
 c:\users\лукарски\documents\visual studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
 c:\users\лукарски\documents\visual studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
 c:\users\лукарски\documents\visual studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\GitHub\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\GitHub\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\GitHub\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+D:\GitHub\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.PlayerForm.resources
